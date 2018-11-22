@@ -1,4 +1,4 @@
-from workerpool import IOWorkerPool
+from wpool import IOWorkerPool
 import time
 import random
 
